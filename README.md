@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Master’s student in **Data Science** at the **University of Texas at Austin** *(Started January 2025)*.
+- 🎓 Master’s student in **Data Science** at the **University of Texas** *(Started January 2025)*.
 - 💼 Previously worked at **Lighthouse Global** and **Samsung SDS** as a **Data Scientist / ML Engineer**.
 - 🧠 Focused on **LLMs**, **Retrieval-Augmented Generation (RAG)**, **AI infrastructure**, and **production-grade GenAI solutions**.
 - 🛠️ Skilled in developing **MLOps pipelines**, **vector databases**, **custom agents**, and **scalable ML APIs**.
