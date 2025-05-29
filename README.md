@@ -53,13 +53,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdhi02&show_icons=true&theme=tokyonight" alt="harshdhi02 stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdhi02&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
-
 ---
 
 ### 📰 Latest Blog Posts
